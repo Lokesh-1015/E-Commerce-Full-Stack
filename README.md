@@ -36,7 +36,7 @@ This project is a dynamic Ecommerce platform designed to facilitate seamless tra
 ## Setup
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Sattu2806/Ecommerce-FullStack.git
+   git clone https://github.com/Lokesh-1015/E-Commerce-Full-Stack.git
    
 2. **Install dependencies**:
    ```bash
